@@ -309,6 +309,7 @@ The long-term objective is to demonstrate the ability to move beyond building re
 
 **Learning by building. Improving through practice. Documenting the journey.**
 
+
 ---
 
 **Repository:** [PowerBi-portfolio](https://github.com/damikuteyi/PowerBi-portfolio)
